@@ -5,5 +5,5 @@
     { "key": "DCX-LIFETIME-BOSS", "expire": "lifetime" }
   ],
   "notice": "Naya mod update aa gaya hai — HACK ON dabao!",
-  "warning": "Aaj server maintenance hai — 2 baje tak band rahega!"
+  "alert": "Aaj server maintenance hai — 2 baje tak band rahega!"
 }
